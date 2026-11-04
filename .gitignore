@@ -1,0 +1,14 @@
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log
+infra/site/backend.hcl
+
+# Secrets and local files
+.env
+*.pem
+.DS_Store
+__pycache__/
+.venv/

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Soccer Trivia — Coming Soon</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; }
+    body {
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      font-family: system-ui, -apple-system, sans-serif;
+      background: #0b3d2e;
+      color: #f4f1e8;
+      text-align: center;
+      padding: 24px;
+    }
+    .ball { font-size: 64px; }
+    h1 { font-size: clamp(32px, 8vw, 56px); margin: 16px 0 8px; }
+    p { opacity: 0.8; font-size: 18px; }
+    .tag {
+      display: inline-block;
+      margin-top: 24px;
+      padding: 6px 14px;
+      border: 1px solid #f4f1e8;
+      border-radius: 999px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <div class="ball">⚽</div>
+    <h1>Soccer Trivia</h1>
+    <p>Daily football puzzles. Kicking off soon.</p>
+    <span class="tag">Served from S3 + CloudFront, built with Terraform</span>
+  </main>
+</body>
+</html>

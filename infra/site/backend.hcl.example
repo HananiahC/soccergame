@@ -1,0 +1,7 @@
+# Copy this file to backend.hcl and paste your bucket name from the bootstrap step
+bucket       = "soccer-trivia-tfstate-PASTE_SUFFIX_HERE"
+key          = "site/dev.tfstate"
+region       = "us-east-2"
+profile      = "agent-toolkit"
+encrypt      = true
+use_lockfile = true
