@@ -10,7 +10,7 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Status](https://img.shields.io/badge/status-week%201%20of%208-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-phase%201%20of%208-orange?style=for-the-badge)
 
 </div>
 
@@ -64,14 +64,14 @@ flowchart LR
 
 ## 🗺 Roadmap
 
-- [x] **Week 1:** Private S3 + CloudFront hosting with Terraform
-- [ ] **Week 2:** Player database (Wikidata → DynamoDB) and Lambda + API Gateway backend
-- [ ] **Week 3:** Mystery Player game, with guesses checked server-side
-- [ ] **Week 4:** CI/CD with GitHub Actions: OIDC, CodeQL, Checkov, gitleaks, Terraform plan on pull requests
-- [ ] **Week 5:** Career Path game, levels, XP and leaderboards
-- [ ] **Week 6:** WAF, CloudWatch monitoring, and k6 load testing
-- [ ] **Week 7:** "The Gaffer," an AI hint assistant on Amazon Bedrock with prompt-injection tests
-- [ ] **Week 8:** Launch 🚀
+- [x] **Phase 1:** Private S3 + CloudFront hosting with Terraform
+- [ ] **Phase 2:** Player database (Wikidata → DynamoDB) and Lambda + API Gateway backend
+- [ ] **Phase 3:** Mystery Player game, with guesses checked server-side
+- [ ] **Phase 4:** CI/CD with GitHub Actions: OIDC, CodeQL, Checkov, gitleaks, Terraform plan on pull requests
+- [ ] **Phase 5:** Career Path game, levels, XP and leaderboards
+- [ ] **Phase 6:** WAF, CloudWatch monitoring, and k6 load testing
+- [ ] **Phase 7:** "The Gaffer," an AI hint assistant on Amazon Bedrock with prompt-injection tests
+- [ ] **Phase 8:** Launch 🚀
 
 ---
 
